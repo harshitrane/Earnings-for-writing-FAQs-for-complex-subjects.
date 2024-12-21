@@ -6,6 +6,8 @@ This is a blockchain-based platform that allows individuals to submit high-quali
 
 ## Contract Address
 0xB96c9b6fFCd40f9aD1a00f3FB355D322FfBfe3B4
+![Screenshot 2024-12-21 143224](https://github.com/user-attachments/assets/6efa2cb5-26c1-48ad-8f6b-d9b4be49c3a9)
+
 
 ## Project Vision
 The goal of this project is to provide a decentralized platform where people can contribute their knowledge by writing detailed FAQs on complex subjects, such as science, technology, law, and health, among others. By incentivizing individuals to write quality content, the platform aims to make knowledge more accessible while ensuring that contributors are fairly compensated for their efforts.
